@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-07-06T22:56:08.431536+00:00",
-  "total_estimado": 650.44,
+  "atualizado_em": "2026-07-26T00:05:15.140323+00:00",
+  "total_estimado": 686.72,
   "cupons": {
     "bambulab": [],
     "bestbuy": [],
@@ -84,7 +84,7 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 17.99,
           "url_produto": "https://us.store.bambulab.com/products/bambu-hotend-h2-p2s",
           "url_carrinho": null
         },
@@ -94,13 +94,18 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": null,
-      "preco_atual": null,
-      "preco_minimo": 20.99,
+      "melhor_loja": "bambulab",
+      "preco_atual": 17.99,
+      "preco_minimo": 17.99,
       "historico": [
         {
           "data": "2026-06-06T12:00:00+00:00",
           "preco": 20.99,
+          "loja": "bambulab"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 17.99,
           "loja": "bambulab"
         }
       ],
@@ -112,7 +117,7 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 17.99,
           "url_produto": "https://us.store.bambulab.com/products/bambu-hotend-h2-p2s",
           "url_carrinho": null
         },
@@ -122,13 +127,18 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": null,
-      "preco_atual": null,
-      "preco_minimo": 20.99,
+      "melhor_loja": "bambulab",
+      "preco_atual": 17.99,
+      "preco_minimo": 17.99,
       "historico": [
         {
           "data": "2026-06-06T12:00:00+00:00",
           "preco": 20.99,
+          "loja": "bambulab"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 17.99,
           "loja": "bambulab"
         }
       ],
@@ -140,7 +150,7 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 37.99,
           "url_produto": "https://us.store.bambulab.com/products/bambu-dual-texture-pei-plate",
           "url_carrinho": null
         },
@@ -155,10 +165,16 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": null,
-      "preco_atual": null,
-      "preco_minimo": null,
-      "historico": [],
+      "melhor_loja": "bambulab",
+      "preco_atual": 37.99,
+      "preco_minimo": 37.99,
+      "historico": [
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 37.99,
+          "loja": "bambulab"
+        }
+      ],
       "brasil": null
     },
     "liquid-glue": {
@@ -167,12 +183,12 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 14.99,
           "url_produto": "https://us.store.bambulab.com/products/liquid-glue-for-build-plate",
           "url_carrinho": null
         },
         "amazon": {
-          "preco": 23.99,
+          "preco": 23.95,
           "url_produto": "https://www.amazon.com/dp/B0DK6TBF1D",
           "url_carrinho": null
         },
@@ -182,9 +198,9 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": "amazon",
-      "preco_atual": 23.99,
-      "preco_minimo": 23.91,
+      "melhor_loja": "bambulab",
+      "preco_atual": 14.99,
+      "preco_minimo": 14.99,
       "historico": [
         {
           "data": "2026-06-06T23:49:26.489940+00:00",
@@ -310,6 +326,11 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 23.99,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 14.99,
+          "loja": "bambulab"
         }
       ],
       "brasil": null
@@ -320,7 +341,7 @@
       "qty": 2,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 3.99,
           "url_produto": "https://us.store.bambulab.com/products/nozzle-wiper",
           "url_carrinho": null
         },
@@ -456,6 +477,11 @@
         },
         {
           "data": "2026-07-06T22:56:08.431536+00:00",
+          "preco": 17.16,
+          "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
           "preco": 17.16,
           "loja": "amazon"
         }
@@ -624,6 +650,11 @@
         },
         {
           "data": "2026-07-06T22:56:08.431536+00:00",
+          "preco": 28.99,
+          "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
           "preco": 28.99,
           "loja": "amazon"
         }
@@ -799,6 +830,11 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 28.99,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 28.99,
+          "loja": "amazon"
         }
       ],
       "brasil": null
@@ -809,12 +845,12 @@
       "qty": 2,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 19.99,
           "url_produto": "https://us.store.bambulab.com/products/pla-matte",
           "url_carrinho": null
         },
         "amazon": {
-          "preco": 30.0,
+          "preco": 27.97,
           "url_produto": "https://www.amazon.com/dp/B0G4ZVJDM7",
           "url_carrinho": null
         },
@@ -824,8 +860,8 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": "amazon",
-      "preco_atual": 30.0,
+      "melhor_loja": "bambulab",
+      "preco_atual": 19.99,
       "preco_minimo": 14.99,
       "historico": [
         {
@@ -957,6 +993,11 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 30.0,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 19.99,
+          "loja": "bambulab"
         }
       ],
       "brasil": null
@@ -972,7 +1013,7 @@
           "url_carrinho": null
         },
         "amazon": {
-          "preco": 26.1,
+          "preco": 25.77,
           "url_produto": "https://www.amazon.com/dp/B0G5175G82",
           "url_carrinho": null
         },
@@ -983,7 +1024,7 @@
         }
       },
       "melhor_loja": "amazon",
-      "preco_atual": 26.1,
+      "preco_atual": 25.77,
       "preco_minimo": 14.99,
       "historico": [
         {
@@ -1115,6 +1156,11 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 26.1,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 25.77,
+          "loja": "amazon"
         }
       ],
       "brasil": null
@@ -1125,7 +1171,7 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 24.99,
           "url_produto": "https://us.store.bambulab.com/products/pla-glow",
           "url_carrinho": null
         },
@@ -1140,10 +1186,16 @@
           "url_carrinho": null
         }
       },
-      "melhor_loja": null,
-      "preco_atual": null,
-      "preco_minimo": null,
-      "historico": [],
+      "melhor_loja": "bambulab",
+      "preco_atual": 24.99,
+      "preco_minimo": 24.99,
+      "historico": [
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 24.99,
+          "loja": "bambulab"
+        }
+      ],
       "brasil": null
     },
     "pla-basic-black": {
@@ -1152,12 +1204,12 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 19.99,
           "url_produto": "https://us.store.bambulab.com/products/pla-basic-filament",
           "url_carrinho": null
         },
         "amazon": {
-          "preco": 29.99,
+          "preco": 16.99,
           "url_produto": "https://www.amazon.com/dp/B0C4GBJCSV",
           "url_carrinho": null
         },
@@ -1168,7 +1220,7 @@
         }
       },
       "melhor_loja": "amazon",
-      "preco_atual": 29.99,
+      "preco_atual": 16.99,
       "preco_minimo": 16.99,
       "historico": [
         {
@@ -1315,6 +1367,11 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 29.99,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 16.99,
+          "loja": "amazon"
         }
       ],
       "brasil": null
@@ -1325,12 +1382,12 @@
       "qty": 1,
       "lojas_precos": {
         "bambulab": {
-          "preco": null,
+          "preco": 19.99,
           "url_produto": "https://us.store.bambulab.com/products/pla-basic-filament",
           "url_carrinho": null
         },
         "amazon": {
-          "preco": 33.99,
+          "preco": 13.99,
           "url_produto": "https://www.amazon.com/dp/B0C4GB1TB1",
           "url_carrinho": null
         },
@@ -1341,7 +1398,7 @@
         }
       },
       "melhor_loja": "amazon",
-      "preco_atual": 33.99,
+      "preco_atual": 13.99,
       "preco_minimo": 6.87,
       "historico": [
         {
@@ -1487,6 +1544,11 @@
         {
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 33.99,
+          "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 13.99,
           "loja": "amazon"
         }
       ],
@@ -1651,14 +1713,19 @@
           "data": "2026-07-06T22:56:08.431536+00:00",
           "preco": 299.99,
           "loja": "amazon"
+        },
+        {
+          "data": "2026-07-26T00:05:15.140323+00:00",
+          "preco": 299.99,
+          "loja": "amazon"
         }
       ],
       "brasil": null
     }
   },
   "cambio": {
-    "usd_brl": 5.8,
+    "usd_brl": 5.0785,
     "fonte": "AwesomeAPI",
-    "atualizado_em": "2026-07-06T22:56:08.431536+00:00"
+    "atualizado_em": "2026-07-26T00:05:15.140323+00:00"
   }
 }
